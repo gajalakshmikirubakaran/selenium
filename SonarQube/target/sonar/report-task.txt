@@ -1,0 +1,5 @@
+projectKey=com.cg.demo:SonarQube
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.cg.demo:SonarQube
+ceTaskId=AWTqA5UytNiB4Ge5NMJH
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWTqA5UytNiB4Ge5NMJH
